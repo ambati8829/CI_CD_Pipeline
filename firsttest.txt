@@ -1,1 +1,1 @@
-Testing the ssh key so that I dont need to give user and password everytime I commit
+Testing the ssh key so that I dont need to give user and password everytime I commit.
